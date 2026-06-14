@@ -1,8 +1,7 @@
 ## About Me
 
 Hi, I'm Dani (also known as Csoki) 👋  
-I’m a electrical engineering student working across software, embedded systems, and electronics.
-
+I’m an electrical engineering student working across software, embedded systems, and electronics.
 I like building and understanding systems that connect software and hardware.
 
 ---
