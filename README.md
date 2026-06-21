@@ -26,5 +26,4 @@ I like building and understanding systems that connect software and hardware.
 ## Contact
 
 - Email: [csoki444m@gmail.com](mailto:csoki444m@gmail.com)  
-- GitHub: [github.com/Csoki-007](https://github.com/Csoki-007)  
-- Website: [csokitech.me](https://csokitech.me)
+- GitHub: [github.com/Csoki-007](https://github.com/Csoki-007)
